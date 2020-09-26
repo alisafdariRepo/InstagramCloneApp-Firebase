@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="materialThemeOverlay">@style/ButtonStyleTextColor</item>
+    <!--    <item name="android:textViewStyle">@style/DefualtAppTextViewStyle</item>-->
+
+        <item name="android:fontFamily">@font/iran_sans_light</item>
+        <item name="fontFamily">@font/iran_sans_family</item>
+    </style>
+
+    <style name="DefualtAppTextViewStyle" parent="android:Widget.TextView">
+
+        <item name="android:fontFamily">@font/iran_sans_family</item>
+
+    </style>
+
+    <style name="ButtonStyleTextColor">
+        <!-- For filled buttons, your theme's colorPrimary provides the default background color of the component, and -->
+        <!--the text color is colorOnPrimary -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/primaryTextColor</item>
+
+    </style>
+
+    <style name="myTabLayoutStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIconTint">@color/primaryTextColor</item>
+
+
+    </style>
+
+</resources>

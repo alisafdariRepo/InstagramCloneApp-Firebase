@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "512153139269",
+    "firebase_url": "https://whatsapp-6028d.firebaseio.com",
+    "project_id": "whatsapp-6028d",
+    "storage_bucket": "whatsapp-6028d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512153139269:android:85dd3eb268b13c2c33cb2c",
+        "android_client_info": {
+          "package_name": "com.mehrsoft.myinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512153139269-nj6dpedpokmttq8qf61cn8f3hg34m9l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehrsoft.myinstagram",
+            "certificate_hash": "85344d342e6cc174271eae34723b9554069a32bc"
+          }
+        },
+        {
+          "client_id": "512153139269-huld9v607r9jas1qtmjb9a0pdrsptlg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmk1MMQYseHT3HyjQck3MNyiGpfmCLIaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512153139269-huld9v607r9jas1qtmjb9a0pdrsptlg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512153139269:android:23cd0e710ab188d133cb2c",
+        "android_client_info": {
+          "package_name": "com.mehrsoft.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512153139269-s4ic9e7vgj7gstass03ccnr6er898g57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehrsoft.whatsapp",
+            "certificate_hash": "85344d342e6cc174271eae34723b9554069a32bc"
+          }
+        },
+        {
+          "client_id": "512153139269-huld9v607r9jas1qtmjb9a0pdrsptlg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmk1MMQYseHT3HyjQck3MNyiGpfmCLIaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512153139269-huld9v607r9jas1qtmjb9a0pdrsptlg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
